@@ -1,0 +1,21 @@
+body{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 30px;
+	padding: 10px;
+	border: 10px solid #bdc3c7;
+	font-family: 'Major Mono Display', monospace;
+}
+
+.date{
+	color: #3498db;
+}
+h2{
+	color: #2c3e50;
+}
+.sideMark{
+	border-left: 10px solid #bdc3c7;
+}
+p{
+	font-family: 'Raleway', sans-serif;
+}
