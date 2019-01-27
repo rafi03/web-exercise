@@ -11,7 +11,7 @@ body{
 	color: #3498db;
 	text-transform: uppercase;
 	font-family: 'Major Mono Display', monospace;
-	
+
 }
 h2{
 	color: #2c3e50;
@@ -21,4 +21,8 @@ h2{
 }
 p{
 	font-family: 'Raleway', sans-serif;
+}
+hr{
+	margin-top: 40px;
+	margin-bottom: 40px;
 }
