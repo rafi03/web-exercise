@@ -1,0 +1,30 @@
+.ehsanImg{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 20%;
+}
+#nameee{
+	font-family: 'Ubuntu', sans-serif;
+	color: #3498db;
+	margin-top: 30px;
+    /*text-transform: uppercase;*/
+}
+
+p{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 25px;
+	color: white;
+}
+.blabla{
+	margin: 10px;
+}
+img{
+	margin-right: 35px;
+	margin-left: 10px;
+	margin-bottom: 80px;
+	float: left;
+}
+p span{
+	font-size: 18px;
+}
